@@ -8,7 +8,7 @@
 }
 
 .studio {
-    color:var(--blue-color);
+    color: var(--blue-color)!important;
 }
 
 .portfolio,
