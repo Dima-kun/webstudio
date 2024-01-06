@@ -1,0 +1,33 @@
+.root {
+     --blue-color:#2196F3;
+     --black-color:#212121;
+     --gray-color:#757575;
+     --white-color: #FFFF;
+     --blue-background-color:#2196F3;
+     --dark-background-color: #2F303A;
+}
+
+.studio {
+    color:var(--blue-color);
+}
+
+.portfolio,
+.contact {
+    color:var(--black-color);
+}
+
+.email {
+    color:var(--blue-color);
+}
+
+.tel {
+    color:var(--gray-color);
+}
+
+.h1 {
+    color:var(--white-color)
+}
+
+.button {
+    color:var(--white-color)
+}
