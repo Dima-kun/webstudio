@@ -7,8 +7,13 @@
      --dark-background-color: #2F303A;
 }
 .root{
-    background-color: var(--dark-background-color);
-    
+    background-color: var(--dark-background-color);   
+}
+.email{
+    color:var(--blue-color)
+}
+.contact{
+    color:var(--gray-color)
 }
 
 .studio {
