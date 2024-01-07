@@ -1,10 +1,14 @@
-.root {
+:root {
      --blue-color:#2196F3;
      --black-color:#212121;
      --gray-color:#757575;
      --white-color: #FFFF;
      --blue-background-color:#2196F3;
      --dark-background-color: #2F303A;
+}
+.root{
+    background-color: var(--dark-background-color);
+    color: #FFFF;
 }
 
 .studio {
