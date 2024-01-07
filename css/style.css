@@ -29,5 +29,5 @@
 }
 
 .button {
-    color:var(--white-color)
+    color: var(--white-color)!important;
 }
